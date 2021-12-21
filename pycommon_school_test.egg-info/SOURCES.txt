@@ -1,0 +1,7 @@
+README.rst
+setup.py
+pycommon_school_test/core_db.py
+pycommon_school_test.egg-info/PKG-INFO
+pycommon_school_test.egg-info/SOURCES.txt
+pycommon_school_test.egg-info/dependency_links.txt
+pycommon_school_test.egg-info/top_level.txt
