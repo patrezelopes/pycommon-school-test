@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='pycommon-school-test',
+    name='pycommon_school_test',
     version='0.0.1',
     description='Common school test modules ',
     url='https://github.com/patrezelopes/pycommon-school-test',
     author='Patreze Lopes',
     author_email='patrezelopes@gmail.com',
     license='BSD 2-clause',
-    packages=['pycommon-school-test'],
+    packages=['pycommon_school_test'],
     install_requires=[],
 
     classifiers=[
